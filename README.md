@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jesus Rosales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**jesusrosales17/jesusrosales17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## &nbsp;***About me***
 
-- 🔭 I’m currently working on ...
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" alt="developer-animation" />
+<p align="left">
+  I’m a Full Stack Developer and Systems Engineering student from Mexico, passionate about building modern web applications with clean and scalable code.
+  .
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Nest js  
+  - Docker
+- 👯 I’m looking to collaborate on Web Development Related Projects **
+- 🥅 2025 Goals: improve my English 
+- ⚡ Fun fact: I love read book, playing video games.
+- 📫 Reach out to me at: jesus.rosales.dev@gmail.com
+
