@@ -15,8 +15,10 @@
 - 👯 I’m looking to collaborate on Web Development Related Projects **
 - 🥅 2025 Goals: improve my English 
 - ⚡ Fun fact: I love read book, playing video games.
-- 📫 Reach out to me at: jesus.rosales.dev@gmail.com
-
+  <br>
+## Contact me : 
+  
+📫  [![Gmail Badge](https://img.shields.io/badge/-jesus.rosales.dev@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:jesus.rosales.dev@gmail.com)](jesus.rosales.dev@gmail.com)
 # Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
@@ -67,3 +69,15 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
 </span>
+
+<br>
+
+## By the way here are some of my statistics 🚀
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+
+🌱 I’m currently learning android in dicoding.com with kotlin
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
