@@ -20,7 +20,7 @@
   <br>
 ## Contact me : 
   
-📫  [![Gmail Badge](https://img.shields.io/badge/-jesus.rosales.dev@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:jesus.rosales.dev@gmail.com)](jesus.rosales.dev@gmail.com)
+📫   Reach out to me at: jesus.rosales.dev@gmail.com
 # Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
